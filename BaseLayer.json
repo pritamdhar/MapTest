@@ -27,5 +27,4 @@
 		"Name": "Humanitarian map style",
 		"urlTemplate": "http://#= subdomain #.tile.openstreetmap.fr/hot/#= zoom #/#= x #/#= y #.png",
 		"attribution": "&copy; <a href='http://osm.org/copyright'>OpenStreetMap contributors</a>"
-	}
-]
+	}]
