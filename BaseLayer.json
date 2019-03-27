@@ -1,0 +1,31 @@
+[{
+		"Name": "OpenStreetMap Standard",
+		"urlTemplate": "http://#= subdomain #.tile.openstreetmap.org/#= zoom #/#= x #/#= y #.png",
+		"attribution": "&copy; <a href='http://osm.org/copyright'>OpenStreetMap contributors</a>"
+	},
+	{
+		"Name": "Wikimedia Maps",
+		"urlTemplate": "https://maps.wikimedia.org/osm-intl/#= zoom #/#= x #/#= y #.png",
+		"attribution": "&copy; <a href='http://osm.org/copyright'>OpenStreetMap contributors</a>"
+	},
+	{
+		"Name": "Stamen Toner - Black & White map",
+		"urlTemplate": "http://#= subdomain #.tile.stamen.com/toner/#= zoom #/#= x #/#= y #.png",
+		"attribution": "Map tiles by <a href='http://stamen.com'>Stamen Design</a>, under <a href='http://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a>. Data by <a href='http://openstreetmap.org'>OpenStreetMap</a>, under <a href='http://www.openstreetmap.org/copyright'>ODbL</a>."
+	},
+	{
+		"Name": "Carto Light ('Positron')",
+		"urlTemplate": "https://cartodb-basemaps-#= subdomain #.global.ssl.fastly.net/light_all/#= zoom #/#= x #/#= y #.png",
+		"attribution": "Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL."
+	},
+	{
+		"Name": "Carto Dark ('Dark Matter')",
+		"urlTemplate": "https://cartodb-basemaps-#= subdomain #.global.ssl.fastly.net/light_all/#= zoom #/#= x #/#= y #.png",
+		"attribution": "Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL."
+	},
+	{
+		"Name": "Humanitarian map style",
+		"urlTemplate": "http://#= subdomain #.tile.openstreetmap.fr/hot/#= zoom #/#= x #/#= y #.png",
+		"attribution": "&copy; <a href='http://osm.org/copyright'>OpenStreetMap contributors</a>"
+	}
+]
